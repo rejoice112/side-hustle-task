@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-  <head><title>Side Hustle Task 2</title></head>
+  <head>
+  <title>Side Hustle Task 2</title>
+</head>
    <body>
      <p>Name: Rejoice Julius</p>
   <p>Slack ID: Rejoice_1</p>
-  <p><h1>SUMMARY:</h1></p>
+  <p><h3>SUMMARY:</h1></p>
   
   <p>The video is a guide to beginners. the video teaches about some important/amazing features of git, installation of git and how to push codeto repository with command line.</p>
 
