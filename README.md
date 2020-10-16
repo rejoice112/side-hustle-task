@@ -1,6 +1,5 @@
 <!DOCTYPE html>
   <head>
-  <title>Side Hustle Task 2</title>
 </head>
    <body>
      <p>Name: Rejoice Julius</p>
